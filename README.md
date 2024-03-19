@@ -1,0 +1,1 @@
+This dataset is a result of the research paper: "Evaluation of deep learning-based models for recognition of skydiving formations" by Algimantas Skuodis, Olga Kurasova from Vilnius University, Institute of Data Science and Digital Technologies, Akademijos str. 4, Vilnius LT-08412, Lithuania.
